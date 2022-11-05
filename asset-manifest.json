@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.d1d7085b.css",
+    "main.js": "/memory-game/static/js/main.1a51983a.js",
+    "static/js/787.69b12325.chunk.js": "/memory-game/static/js/787.69b12325.chunk.js",
+    "static/media/loggle.png": "/memory-game/static/media/loggle.1b852d43e44df5c1ac20.png",
+    "static/media/croaker.png": "/memory-game/static/media/croaker.977b3063a703f313a820.png",
+    "static/media/sylvia.png": "/memory-game/static/media/sylvia.2810c35be49f95a55dc8.png",
+    "static/media/toadstool.jpg": "/memory-game/static/media/toadstool.77f7968d465e71ade2da.jpg",
+    "static/media/grime.png": "/memory-game/static/media/grime.4d0c382e57f14859f73e.png",
+    "static/media/sprig.png": "/memory-game/static/media/sprig.ee686914cf5982cf137c.png",
+    "static/media/hoppop.png": "/memory-game/static/media/hoppop.bdf9504c1512f5dbf9b4.png",
+    "static/media/polly.png": "/memory-game/static/media/polly.320a10d1c336f00dfd2e.png",
+    "static/media/wally.png": "/memory-game/static/media/wally.6f127c1f0c909a24374e.png",
+    "static/media/sasha.jpg": "/memory-game/static/media/sasha.1d53515b533e1e26d441.jpg",
+    "static/media/maddie.jpg": "/memory-game/static/media/maddie.807c74ce60527eacdfa8.jpg",
+    "static/media/anne.jpg": "/memory-game/static/media/anne.d5e81b39ef3842cd50de.jpg",
+    "index.html": "/memory-game/index.html",
+    "main.d1d7085b.css.map": "/memory-game/static/css/main.d1d7085b.css.map",
+    "main.1a51983a.js.map": "/memory-game/static/js/main.1a51983a.js.map",
+    "787.69b12325.chunk.js.map": "/memory-game/static/js/787.69b12325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1d7085b.css",
+    "static/js/main.1a51983a.js"
+  ]
+}
