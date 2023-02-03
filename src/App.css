@@ -36,10 +36,6 @@ html {
   border-radius: 1rem;
   padding: 0.3rem 0.3rem 2rem 0.3rem;
 }
-.card-wrapper:hover{
-  box-shadow: 0 0 10px 10px rgb(8, 193, 244);
-  cursor: pointer;
-}
 
 .card-wrapper > img {
   width: 100%;
