@@ -10,13 +10,15 @@ function App() {
   function updateScore() {
     setScore(prevState => prevState + 1)
   }
-
+/* get a winning score to show as high score and to alert the win */
   function resetScore() {
     setScore(0)
   }
 
   function updateHighScore() {
-    if(score > highScore) {setHighScore(score)}
+    if(score > highScore) {
+      setHighScore(score)
+    }
     setScore(0)
   }
 
