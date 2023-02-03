@@ -16,11 +16,18 @@ html {
 .header-wrapper > div > h4 {
   padding-top: 2rem;
 }
+.cards-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .cards-wrapper {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
   margin-top: 0.5rem;
+  width: 100%;
+  max-width: 1200px;
 }
 .card-wrapper {
   display: flex;

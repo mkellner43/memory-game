@@ -46,8 +46,10 @@ export default function Cards(props) {
   }
 
   return (
-    <section className="cards-wrapper">
-    {shuffledCards}
+    <section className="cards-section">
+      <section className="cards-wrapper">
+       {shuffledCards}
+      </section>
     </section>
   )
 }
